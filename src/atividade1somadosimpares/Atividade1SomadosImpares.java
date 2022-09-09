@@ -1,6 +1,6 @@
 package atividade1somadosimpares;
 
-public abstract class Atividade1SomadosImpares {
+public class Atividade1SomadosImpares {
 
     public static void main(String[] args) {
 
